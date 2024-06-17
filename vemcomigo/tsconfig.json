@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./app/assets/js",
+    "strict": true
+  },
+  "include": ["app/assets/ts/**/*.ts"],
+  "exclude": ["node_modules"]
+}

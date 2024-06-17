@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.row {
+    height: 100%;
+}
+
+.btn-pink {
+    color: #fff;
+    background-color: #ffa7b8; /* Rosa Claro */
+    border-color: #ffa7b8; /* Rosa Claro */
+}
+
+a{
+    color: #757575;
+}
+
+.btn-pink:hover {
+    color: #fff;
+    background-color: #ffc0cb; /* Rosa Claro mais escuro ao passar o mouse */
+    border-color: #ffa7b8; /* Rosa Claro mais escuro ao passar o mouse */
+}

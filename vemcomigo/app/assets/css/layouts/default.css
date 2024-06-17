@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container-fluid {
+    height: 100%;
+}
+.row {
+    height: 100%;
+}
+
+.border-simple {
+    border-radius: 0.25rem; /* Define o raio da borda */
+    border-top: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    border-left: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    border-right: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    padding: 2rem;
+}
+
+.btn-pink {
+    color: #fff;
+    background-color: #ffa7b8; /* Rosa Claro */
+    border-color: #ffa7b8; /* Rosa Claro */
+}
+
+.btn-pink:hover {
+    color: #fff;
+    background-color: #ffc0cb; /* Rosa Claro mais escuro ao passar o mouse */
+    border-color: #ffa7b8; /* Rosa Claro mais escuro ao passar o mouse */
+}
+
+.border-simple{
+    border-radius: 0.25rem; /* Define o raio da borda */
+    border-top: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    border-left: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    border-right: 1px solid rgba(0, 0, 0, 0.1); /* Adiciona uma borda suave */
+    padding: 2rem;
+}
