@@ -1,3 +1,9 @@
+PROJETO VEM COMIGO DANÇAR
+
+Utiliza-se de um framework PHP próprio inspirado no Ruby on Rails.
+
+Siga os passo para instalar.
+
 1 - Copie e cole o .htaccess e a pasta vemcomigo para a raiz do servidor.
 2 - Acesse o arquivo /vemcomigo/config.php e altere os valores para refletir no seu banco de dados:
 - DATABASE_NAME: nome do banco dados;
